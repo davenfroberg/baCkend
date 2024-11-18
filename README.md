@@ -1,2 +1,2 @@
 # baCkend
-A website backend in C (get it?)
+A webserver in C (get it?)
